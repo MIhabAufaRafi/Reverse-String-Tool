@@ -35,7 +35,6 @@ def reverse_words_and_order(sentence):
 def main():
     print("Program Pembalik Kata dan Urutan Kata dalam Paragraf")
     print("=================================================")
-
     print("Masukkan paragraf (ketik 'akhir' untuk mengakhiri):")
     paragraphs = []
 
